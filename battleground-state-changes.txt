@@ -1,5 +1,5 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-11-06 15:45 UTC
+Last updated:           2020-11-06 15:53 UTC
 Latest batch received:  2020-11-06 15:36 UTC
 Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
@@ -186,7 +186,7 @@ Nevada (EV: 6) Total Votes: (Biden: 604,251, Trump: 592,813)
 Pennsylvania (EV: 20) Total Votes: (Biden: 3,297,591, Trump: 3,290,774)
 ----------------  ---  ------------------------------  ---------------------------  --------------------------------------------  --------------------  ----------------------------  -------------------------
 2020-11-06 15:27  ***  Biden leading by 6,826 votes    Remaining (est.): 141,613    Change:      39 (Biden 61.5% / 38.5% Trump)   Precincts: 8454/9128  Trump needs 52.41% [0.004%]   Trump recent trend 66.11%
-2020-11-06 15:17  ***  Biden leading by 6,817 votes    Remaining (est.): 141,652    Change:   3,085 (Biden 69.4% / 30.6% Trump)   Precincts: 8454/9128  Trump needs 52.41% [0.465%]   Trump recent trend 66.14%
+2020-11-06 15:17  ---  Biden leading by 6,817 votes    Remaining (est.): 141,652    Change:   3,085 (Biden 69.4% / 30.6% Trump)   Precincts: 8454/9128  Trump needs 52.41% [0.465%]   Trump recent trend 66.14%
 2020-11-06 14:56  ---  Biden leading by 5,618 votes    Remaining (est.): 144,737    Change:     306 (Biden 55.1% / 44.9% Trump)   Precincts: 8451/9128  Trump needs 51.94% [0.015%]   Trump recent trend 69.60%
 2020-11-06 13:50  ---  Biden leading by 5,587 votes    Remaining (est.): 145,043    Change:  31,412 (Biden 30.2% / 69.8% Trump)   Precincts: 8450/9128  Trump needs 51.93% [-3.188%]  Trump recent trend 69.84%
 2020-11-06 13:12  ---  Trump leading by 18,049 votes   Remaining (est.): 176,455    Change:       0 (n/a)                         Precincts: 8385/9128  Biden needs 55.11% [0.756%]   Biden recent trend 80.08%
